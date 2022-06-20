@@ -51,8 +51,8 @@ A resposta dessa requisição é devolvida com a seguinte estrutura:
  
 #### Subindo o servidor backend
   1. Clone/Baixe este repositório na sua máquina;
-  2. Abrir o terminal, navegar até a pasta "questions-challenge/backend" e rodar "yarn" ou "npm i" para baixar as dependências do projeto;
-  3. Após baixar as dependências, ainda no terminal e dentro da pasta "questions-challenge/backend", rodar o comando "yarn start" ou "npm run start";
+  2. Abrir o terminal, navegar até a pasta "quiz-challenge/backend" e rodar "yarn" ou "npm i" para baixar as dependências do projeto;
+  3. Após baixar as dependências, ainda no terminal e dentro da pasta "quiz-challenge/backend", rodar o comando "yarn start" ou "npm run start";
   4. Pronto, seu servidor backend está no ar e pronto pra ser acessado no endereço "http://localhost:3001".
   
   
