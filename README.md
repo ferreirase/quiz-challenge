@@ -14,7 +14,7 @@ Este **Desafio** de frontend consiste em consumir as questões via **API**, rend
 
 - Renderizar uma **QUESTION** por vez;
   
-- Guardar as informações da **QUESTION** atual em um gerenciador de estados (contextApi ou Redux)
+- Guardar as informações da **QUESTION** atual em um gerenciador de estados (contextApi ou Redux);
   
 - Não permitir o avanço para a próxima **QUESTION** sem ter respondido a atual;
   
